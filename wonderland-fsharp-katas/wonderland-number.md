@@ -34,6 +34,7 @@ If you haven't solved your kata yet - Don't Peek!
 * https://github.com/epeicher/wonderland-fsharp-katas/blob/master/wonderland-fsharp-katas/wonderland-number.fsx
 * https://github.com/htoma/wonderland-fsharp-katas/blob/master/wonderland-fsharp-katas/wonderland-number.fsx
 * https://github.com/nestordemeure/wonderland-fsharp-katas/blob/master/wonderland-fsharp-katas/wonderland-number.fsx
+* https://github.com/alathon/wonderland-fsharp-katas/blob/master/wonderland-fsharp-katas/wonderland-number.fsx
 
 ## License
 
